@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Weather application built using React and TailWind.
+
+Thanks Metaweather API for the awesome api.
 
 ## Available Scripts
 
